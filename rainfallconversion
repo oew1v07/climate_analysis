@@ -1,4 +1,6 @@
 def rainfall(inches):
+    """Converting rainfall from inches to mm"""
+   
     mm=inches*25.4
     return mm
 
